@@ -17,5 +17,4 @@ Download the models here!!! [https://drive.google.com/drive/folders/1d5kb5Xd_Avq
 5. When your done, run ```imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/license_plate/Cars2.jpg Cartest0.jpg```
 6. If you want to try with your own image, what you'll want to do is run the 5th step again, however, replace the image path and the dataset file path with your own image file.
 
-
-[View a video explanation here](video link)
+View a Video Explanation here!!! [https://youtu.be/JSPsbwFSIlw]
