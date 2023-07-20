@@ -4,7 +4,7 @@ This image recognition AI recognizes if your car has a license plate.
 
 ## The Algorithm
 
-Introducing License Plate Recognizer. Licnese Plate Recognizer uses images of cars with license plate and cars with no licnese plate and recognizes which car has a license plate and which car doesn't. How does it work? The set of training images is used for transfer learning, the val images are used to evaluate the classification's accuracy when it is training the images, and you use the test images after it is done training.
+Introducing License Plate Recognizer. Licnese Plate Recognizer uses images of cars with license plate and cars with no licnese plate and recognizes which car has a license plate and which car doesn't. How does it work? The set of training images is used for transfer learning, the val images are used to evaluate the classification's accuracy when it is training the images, and you use the test images after it is done training. This can be used to detect if a person's car has a license plate or not.
 
 ## Steps To Run The Project
 
