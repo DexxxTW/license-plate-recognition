@@ -1,10 +1,8 @@
 # license-plate-recognition
+
 This image recognition AI recognizes if your car has a license plate.
-# Project Name
 
- Add short description of project here > 
-
-![add image descrition here](direct image link here)
+![add image description here](direct image link here)
 
 ## The Algorithm
 
@@ -12,7 +10,8 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Download the 'test', 'train', and 'val' folders, then add these folders to a new folder called 'license_plate'.
+2. 
+
 
 [View a video explanation here](video link)
