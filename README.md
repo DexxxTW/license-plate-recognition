@@ -8,6 +8,8 @@ Introducing License Plate Recognizer. Licnese Plate Recognizer uses images of ca
 
 ## Steps To Run The Project
 
+Download the models here!!! [https://drive.google.com/drive/folders/1d5kb5Xd_AvqYgFa--3JCbQC_EQDfKPHk?usp=sharing]
+
 1. Make sure you have a Jetson Nano, and install jetson-inference and python3 libaries on your device.
 2. Download the 'test', 'train', and 'val' folders, then add these folders to a new folder called 'license_plate' in the models directory at jetson-inference/python/training/classification/data/.
 3. Move 'model_best.pth.tar' and 'resnet18.onnx' files to jetson-inference/python/training/classification/models/license_plate directory.
