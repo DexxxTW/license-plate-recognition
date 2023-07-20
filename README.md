@@ -6,7 +6,7 @@ This image recognition AI recognizes if your car has a license plate.
 
 Introducing License Plate Recognizer. Licnese Plate Recognizer uses images of cars with license plate and cars with no licnese plate and recognizes which car has a license plate and which car doesn't. How does it work? The set of training images is used for transfer learning, the val images are used to evaluate the classification's accuracy when it is training the images, and you use the test images after it is done training.
 
-## Running this project
+## Steps To Run The Project
 
 1. Make sure you have a Jetson Nano, and install jetson-inference and python3 libaries on your device.
 2. Download the 'test', 'train', and 'val' folders, then add these folders to a new folder called 'license_plate' in the models directory at jetson-inference/python/training/classification/data/.
